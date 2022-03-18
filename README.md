@@ -1,5 +1,7 @@
 # go_iboxPick v1.0.0
 go语言版本的ibox的捡漏工具，go环境版本 v1.16
+当前版本只针对1.0.6版本的ibox
+新版本使用python进行开发：<a href=“https://github.com/chenguanyou/py_ibox” target="_blank">前往py_ibox</a>
 
 
 # 项目目录说明
@@ -28,7 +30,5 @@ ps: 如果运行失败可以使用(go build main.go config.go create_order.go lo
 ```
 
 # 项目会长期更新（觉得不错的可以打赏一下，谢谢支持）
-
 <img src="./static/zfb.jpeg" width="25%" />
-
 <img src="./static/wx.jpeg" width="25%" />
