@@ -1,7 +1,7 @@
 # go_iboxPick v1.0.0
-go语言版本的ibox的捡漏工具，go环境版本 v1.16
-当前版本只针对1.0.6版本的ibox
-新版本使用python进行开发：<a href=“https://github.com/chenguanyou/py_ibox” target="_blank">前往py_ibox</a>
+go语言版本的ibox的捡漏工具，go环境版本 v1.16  
+当前版本只针对1.0.6版本的ibox   
+新版本使用python进行开发：https://github.com/chenguanyou/py_ibox  
 
 
 # 项目目录说明
