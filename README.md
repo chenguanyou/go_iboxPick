@@ -29,6 +29,6 @@ ps: 如果运行失败可以使用(go build main.go config.go create_order.go lo
 
 # 项目会长期更新（觉得不错的可以打赏一下，谢谢支持）
 
-<img src="./zfb.jpeg" width="25%" />
+<img src="./zfb.png" width="25%" />
 
-<img src="./wx.jpeg" width="25%" />
+<img src="./wx.png" width="25%" />
