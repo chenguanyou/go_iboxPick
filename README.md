@@ -28,7 +28,3 @@ ps：第三步如果运行失败可以使用(go run main.go config.go create_ord
 1、在go环境安装完成后、配置文件编辑好后的情况下使用go build main.go 进行编译
 ps: 如果运行失败可以使用(go build main.go config.go create_order.go login.go low_price.go lowLook.go proxyip.go send_sms.go video_mp3.go)
 ```
-
-# 项目会长期更新（觉得不错的可以打赏一下，谢谢支持）
-<img src="./static/zfb.jpeg" width="25%" />
-<img src="./static/wx.jpeg" width="25%" />
